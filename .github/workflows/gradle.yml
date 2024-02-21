@@ -38,7 +38,7 @@ jobs:
       
       # 3. Docker 이미지 빌드
       - name: docker image build
-        run: docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/github-actions-demo ./hello/hello/build/lib
+        run: docker build -t ${{ secrets.DOCKERHUB_USERNAME }}/github-actions-demo ./hello/hello/
         
       # 4. DockerHub 로그인
       - name: docker login
