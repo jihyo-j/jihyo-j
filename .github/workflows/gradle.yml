@@ -24,7 +24,10 @@ jobs:
           distribution: 'temurin'
 
       - name: Grant Execute Permission For Gradlew
-        run: chmod +x gradlew
+        run: |
+          cd hello
+          cd hello
+          chmod +x gradlew
       
       # 2. Spring Boot 애플리케이션 빌드
       - name: Build With Gradle
