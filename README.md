@@ -46,13 +46,25 @@
   <img src="https://img.shields.io/badge/Thymleaf-005F0F?style=flat-square&logo=Thymleaf&logoColor=white"/>
   <br/>
   <br/>
-  
+  <!--
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyo-j)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyo-j)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+  -->
+
+  ## ✨Projects
+  - **[2022.11-2022.12]** 아트리핀 여행 서포터즈  
+  - **[2022.11-2023.01]** 창업동아리 스쿼드 개발팀  
+  - **[2023.03-2023.05]** YLC 경제동아리  
+  - **[2023.05-2023.06]** CIFAR-10 dataset을 이용한 CNN 모델 성능 개선  
+  - **[2023.12-2024.02]** AWS winter camp  
+  - **[2024.02-2024.03]** 한국방송진흥공사 AI 서비스 홈페이지 개편  
+  - **[2024.05-2024.06]** 한국대학생IT연합학회 '플리빗' 서비스 출시   
+  - **[2024.07-2024.08]** 서울대학교 CSR 'RAG를 활용한 심리상담 챗봇 구현
+  - **[2024.09-2024.12]** SSS LAB "시각장애인을 위한 주식정보 제공 챗봇"
+  - **[2024.09- 2024.12]** 감정분석 일기 서비스 개발  
+  </div>
 
 <!--
 **Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
